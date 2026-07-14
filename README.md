@@ -5,7 +5,7 @@
 ****Last Updated:**** June 9, 2026
 [undermost12345/BackyardBayouPrivacyPolicy](https://github.com/undermost12345/BackyardBayouPrivacyPolicy/tree/main)
 
-This Privacy Policy describes how Titan Ventures Media LLC ("Company," "we," "our," or "us"), operated by Jonathon Evans, handles information in connection with the video game Backyard Bayou (the "Game"). It is incorporated by reference into the Backyard Bayou End User License Agreement ("EULA").
+This Privacy Policy describes how Titan Ventures Media LLC ("Company," "we," "our," or "us"), handles information in connection with the video game Backyard Bayou (the "Game"). It is incorporated by reference into the Backyard Bayou End User License Agreement ("EULA").
 
 This Policy is designed to be plain and short. We collect only what we need to debug and improve the Game, we do not sell your data, and we do not share it with third-party advertisers.
 
@@ -126,7 +126,7 @@ We may update this Privacy Policy from time to time. When we do, we will update 
 
 For questions, concerns, or requests related to this Privacy Policy, please contact:
 
-**Titan Ventures Media LLC** Jonathon Evans, Owner Email: TitanVenturesMediaLLC@gmail.com
+**Titan Ventures Media LLC**, Owner Email: TitanVenturesMediaLLC@gmail.com
 
 ---
 

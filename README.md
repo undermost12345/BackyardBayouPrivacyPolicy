@@ -2,7 +2,7 @@
 
 ## PRIVACY POLICY
 
-****Last Updated:**** June 9, 2026
+****Last Updated:**** July 14, 2026
 [undermost12345/BackyardBayouPrivacyPolicy](https://github.com/undermost12345/BackyardBayouPrivacyPolicy/tree/main)
 
 This Privacy Policy describes how Titan Ventures Media LLC ("Company," "we," "our," or "us"), handles information in connection with the video game Backyard Bayou (the "Game"). It is incorporated by reference into the Backyard Bayou End User License Agreement ("EULA").
